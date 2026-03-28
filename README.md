@@ -18,5 +18,6 @@ VFX - Visual effects using basic Unity Particle System and Shader Graph
 Each of this folder contains full unity projects
 
 Portfolio Link -> https://linktr.ee/flores.joshuagabriellabrador (Full Game Projects)
+Resume - > https://github.com/Joshuaflores12/GameDev_Portfolio/issues/1#issue-4158615095
 
  
