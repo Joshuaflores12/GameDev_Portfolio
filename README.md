@@ -1,6 +1,6 @@
 Game Development Portfolio - Joshua Flores
 
-Aspiring Junior Game Developer, proficient in Unity basics
+Junior Game Developer, proficient in Unity basics
 and C#. Made simple game projects and VFX, mostly
 focused on 2D. Showcasing game physics
 implementations, platformer game mechanics, Level
